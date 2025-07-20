@@ -1,0 +1,13 @@
+INFO     HomePage:utils.py:14 Execution Action navigate_to with arguments ('https://demo.automationtesting.in/Index.html',), kwargs={}
+INFO     venv:utils.py:14 Navigate to https://demo.automationtesting.in/Index.html
+INFO     HomePage:utils.py:14 Performing Skip Sign In
+INFO     HomePage:utils.py:14 Execution Action click_element with arguments (), kwargs={}
+INFO     RegisterPage:utils.py:14 Execution Action hover on element with arguments (), kwargs={}
+INFO     RegisterPage:utils.py:14 Execution Action click_element with arguments (), kwargs={}
+INFO     DateHelper:utils.py:14 Validating date format for: 09/10/2025
+INFO     DatePickerPage:utils.py:14 Execution Action click_element with arguments (), kwargs={}
+INFO     DatePickerPage:utils.py:14 Execution Action wait for with arguments (), kwargs={'state': 'visible', 'timeout': 5000}
+INFO     DatePickerPage:utils.py:14 Execution Action click_element with arguments (), kwargs={}
+INFO     DatePickerPage:utils.py:14 Execution Action wait for with arguments (), kwargs={'state': 'visible', 'timeout': 5000}
+INFO     DatePickerPage:utils.py:14 Execution Action click_element with arguments (), kwargs={}
+INFO     venv:utils.py:14 Closing browser
